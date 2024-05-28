@@ -1,6 +1,7 @@
 ## Hi there 👋
-- I don't know how I got here
 - I don't know what i'm doing here (*yet*)
+- I don't know how I got here
+
 <!--
 **niemand1010/niemand1010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
